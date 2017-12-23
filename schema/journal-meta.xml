@@ -1,0 +1,32 @@
+<journal-meta>
+  <journal-id journal-id-type="doi">10.3765/sp</journal-id>
+  <journal-id journal-id-type="aggregator">sepr</journal-id>
+  <journal-title-group>
+    <journal-title>Semantics and Pragmatics</journal-title>
+    <abbrev-journal-title>S&amp;P</abbrev-journal-title>
+  </journal-title-group>
+  <contrib-group>
+    <contrib contrib-type="editor">
+      <name>
+        <surname>Beaver</surname>
+        <given-names>David</given-names>
+      </name>
+    </contrib>
+    <contrib contrib-type="editor">
+      <name>
+        <surname>von Fintel</surname>
+        <given-names>Kai</given-names>
+      </name>
+    </contrib>
+    <contrib contrib-type="production">
+      <name>
+        <given-names>S&amp;P Production</given-names>
+      </name>
+      <email>production@semprag.org</email>
+    </contrib>
+  </contrib-group>
+  <issn publication-format="electronic">1937-8912</issn>
+  <publisher>
+    <publisher-name>Linguistic Society of America</publisher-name>
+  </publisher>
+</journal-meta>
