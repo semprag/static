@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.6" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fr="http://www.crossref.org/fundref.xsd" version="4.3.6" xsi:schemaLocation="http://www.crossref.org/schema/4.3.6 http://www.crossref.org/schema/deposit/crossref4.3.6.xsd">
+  <head>
+    <doi_batch_id>10.3765/sp.10</doi_batch_id>
+    <timestamp>20170328233809</timestamp>
+    <depositor>
+      <depositor_name>Linguistic Society of America</depositor_name>
+      <email_address>latex@semprag.org</email_address>
+    </depositor>
+    <registrant>Linguistic Society of America</registrant>
+  </head>
+  <body>
+    <journal>
+      <journal_metadata language="en">
+        <full_title>Semantics and Pragmatics</full_title>
+        <issn media_type="electronic">1937-8912</issn>
+      </journal_metadata>
+      <journal_issue>
+        <publication_date>
+          <year>2017</year>
+        </publication_date>
+        <journal_volume>
+          <volume>10</volume>
+          <doi_data>
+            <doi>10.3765/sp.10</doi>
+            <resource>http://semprag.org/issue/view/sp.10</resource>
+          </doi_data>
+        </journal_volume>
+      </journal_issue>
+    </journal>
+  </body>
+</doi_batch>
